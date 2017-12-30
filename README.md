@@ -1,7 +1,5 @@
 # World of Galdor
 
-
-# CS306 – Database Systems
 # DATABASE SYSTEM OF A ROLEPLAYING GAME: “WORLD OF GALDOR”
 
 ```
